@@ -21,3 +21,4 @@ This project predicts the likelihood of a patient having diabetes using health p
 
 ## 📌 Next Steps:
 - Hyperparameter optimization using GridSearchCV (coming soon in a subproject)
+- 🔧 [Hyperparameter optimization using GridSearchCV](./model_optimization) – View the subproject
